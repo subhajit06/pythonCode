@@ -44,8 +44,8 @@ def explainData(baseSet,data,nPE):
             
     return r
             
-#######################################
-########### main function #############                    
+#######################################################
+########### main function #############################
 #print 'Number of arguments:', len(sys.argv)-1, 'arguments.'
 #print 'Argument List:', str(sys.argv)
 if len(sys.argv) != 3:
